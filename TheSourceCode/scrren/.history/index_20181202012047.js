@@ -1,0 +1,1 @@
+import kscreenshot from 'kscreenshot'

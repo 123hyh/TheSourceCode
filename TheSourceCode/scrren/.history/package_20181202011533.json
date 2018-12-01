@@ -1,0 +1,20 @@
+{
+  "name": "scrren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack": "webpack.config",
+    "dev": "webpack-dev-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.26.1",
+    "webpack-dev-server": "^3.1.10"
+  },
+  "dependencies": {
+    "kscreenshot": "^1.1.5"
+  }
+}
